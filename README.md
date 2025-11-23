@@ -13,8 +13,8 @@ The main objective of this project is to promote awareness about proper waste se
 1. User enters the name or type of waste (example: “paper”, “banana peel”, “plastic”, “vegetable scraps”).  
 2. The program compares the input with predefined lists of dry and wet waste.  
 3. It prints:
-   - *Dry Waste* → items like paper, plastic, cardboard, metal, glass  
-   - *Wet Waste* → items like food scraps, fruit peels, tea/coffee waste  
+   - Dry Waste → items like paper, plastic, cardboard, metal, glass  
+   - Wet Waste → items like food scraps, fruit peels, tea/coffee waste  
 4. If the item is not recognized, the program shows a helpful message.
 
  Features
